@@ -1,6 +1,10 @@
-## Amani's Photography Website  
-#### Minimalist photography portfolio website, *April 13, 2025*  
+## Amani's Photography Website
+
+#### Minimalist photography portfolio website, *April 13, 2025*
+
 #### By **Amani**
+
+**View the project repository:** [https://github.com/JxAmani/Photography-website.git](https://github.com/JxAmani/Photography-website.git)
 
 ## Description
 
@@ -10,10 +14,11 @@ The website serves as a portfolio, creative hub, and booking platform, providing
 
 ## Setup/Installation Requirements
 
-* Clone the repository  
-* Install dependencies with `npm install`  
-* Start the development server with `npm run dev`  
-* Ensure a modern browser is available  
+* Clone the repository: `git clone https://github.com/JxAmani/Photography-website.git`
+* Navigate to the project directory: `cd Photography-website`
+* Install dependencies with `npm install`
+* Start the development server with `npm run dev`
+* Ensure a modern browser is available
 * Deploy to platforms like **Netlify** or **Vercel** for performance optimization
 
 > _Note: This app does not require a database. All content is statically served._
@@ -46,5 +51,5 @@ If you encounter any issues or unexpected behavior, feel free to report it via [
 
 ## Support and Contact Details
 
-📧 **jeremyamani336@gmail.com**  
-📞 **07123456789**  # Photography-website
+📧 **jeremyamani336@gmail.com**
+📞 **07123456789**
